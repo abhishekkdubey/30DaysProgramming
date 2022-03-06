@@ -11,13 +11,13 @@ NOTE: Belowc content referenced from TakeUForward.org. That portal is driving a 
 <tr>
 <th><strong>Problem</strong></th>
 <th><strong>Practice Link 1</strong></th>
-<th><strong>Video Solution</strong></th>
+<th><strong>Solution</strong></th>
 <th><strong>Practice Link 2</strong></th>
 </tr>
 <tr>
-<td><a href="https://takeuforward.org/data-structure/set-matrix-zero/" target="_blank" rel="noopener">Set Matrix Zeroes</a></td>
+<td><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank" rel="noopener">Set Matrix Zeroes</a></td>
 <td>Link 1</td>
-<td><a href="https://www.youtube.com/watch?v=M65xBewcqcI&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=7" target="_blank" rel="noopener">YT</a></td>
+<td><a href="https://github.com/abhishekkdubey/30DaysProgramming/wiki/Set-Matrix-Zeroes" target="_blank" rel="noopener">Wiki</a></td>
 <td><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank" rel="nofollow noopener">Link 2</a></td>
 </tr>
 <tr>
