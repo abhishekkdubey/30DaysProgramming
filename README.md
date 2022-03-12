@@ -5,48 +5,41 @@ NOTE: Belowc content referenced from TakeUForward.org. That portal is driving a 
 
 <details open="">
 <summary><b>Day 1</b>: Arrays</summary>
-<p>Find both C++/Java codes of all problem in the articles in the first column.</p>
+<p>Find Kotlin codes of all problem in the articles in the Solution(Wiki) column.</p>
 <table>
 <tbody>
 <tr>
 <th><strong>Problem</strong></th>
-<th><strong>Practice Link 1</strong></th>
 <th><strong>Solution</strong></th>
-<th><strong>Practice Link 2</strong></th>
+<th><strong>Practice Link</strong></th>
 </tr>
 <tr>
 <td><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank" rel="noopener">Set Matrix Zeroes</a></td>
-<td>Link 1</td>
 <td><a href="https://github.com/abhishekkdubey/30DaysProgramming/wiki/Set-Matrix-Zeroes" target="_blank" rel="noopener">Wiki</a></td>
 <td><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank" rel="nofollow noopener">Link 2</a></td>
 </tr>
 <tr>
-<td><a href="https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/" target="_blank" rel="noopener">Pascal’s Triangle</a></td>
-<td><a href="https://bit.ly/3rhv153" target="_blank" rel="nofollow noopener">Link 1</a></td>
-<td><a href="https://www.youtube.com/watch?v=6FLvhQjZqvM&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=8" target="_blank" rel="noopener">YT</a></td>
+<td><a href="https://leetcode.com/problems/pascals-triangle/" target="_blank" rel="noopener">Pascal’s Triangle</a></td>
+<td><a href="https://github.com/abhishekkdubey/30DaysProgramming/wiki/Pascal's-Triangle" target="_blank" rel="noopener">Wiki</a></td>
 <td><a href="https://leetcode.com/problems/pascals-triangle/" target="_blank" rel="nofollow noopener">Link 2</a></td>
 </tr>
 <tr>
 <td><a href="https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/" target="_blank" rel="noopener">Next Permutation</a></td>
-<td><a href="https://bit.ly/3qoj5iQ" target="_blank" rel="nofollow noopener">Link 1</a></td>
 <td><a href="https://www.youtube.com/watch?v=LuLCLgMElus&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=9" target="_blank" rel="noopener">YT</a></td>
 <td><a href="https://leetcode.com/problems/next-permutation/" target="_blank" rel="nofollow noopener">Link 2</a></td>
 </tr>
 <tr>
 <td><a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/" target="_blank" rel="noopener">Kadane’s Algorithm</a></td>
-<td><a href="https://bit.ly/3HZltTa" target="_blank" rel="nofollow noopener">Link 1</a></td>
 <td><a href="https://www.youtube.com/watch?v=w_KEocd__20&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=5" target="_blank" rel="noopener">YT</a></td>
 <td><a href="https://leetcode.com/problems/maximum-subarray/" target="_blank" rel="nofollow noopener">Link 2</a></td>
 </tr>
 <tr>
 <td><a href="https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/" target="_blank" rel="noopener">Sort an array of 0’s 1’s 2’s</a></td>
-<td><a href="https://bit.ly/3tlM60B" target="_blank" rel="nofollow noopener">Link 1</a></td>
 <td><a href="https://www.youtube.com/watch?v=oaVa-9wmpns&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=2" target="_blank" rel="noopener">YT</a></td>
 <td><a href="https://leetcode.com/problems/sort-colors/" target="_blank" rel="nofollow noopener">Link 2</a></td>
 </tr>
 <tr>
 <td><a href="https://takeuforward.org/data-structure/stock-buy-and-sell/" target="_blank" rel="noopener">Stock buy and Sell</a></td>
-<td><a href="https://bit.ly/3GsANaD" target="_blank" rel="nofollow noopener">Link 1</a></td>
 <td><a href="https://www.youtube.com/watch?v=eMSfBgbiEjk&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=11" target="_blank" rel="noopener">YT</a></td>
 <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank" rel="nofollow noopener">Link 2</a></td>
 </tr>
