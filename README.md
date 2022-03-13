@@ -16,22 +16,22 @@ NOTE: Belowc content referenced from TakeUForward.org. That portal is driving a 
 <tr>
 <td><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank" rel="noopener">Set Matrix Zeroes</a></td>
 <td><a href="https://github.com/abhishekkdubey/30DaysProgramming/wiki/Set-Matrix-Zeroes" target="_blank" rel="noopener">Wiki</a></td>
-<td><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank" rel="nofollow noopener">Link 2</a></td>
+<td><a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank" rel="nofollow noopener">Link</a></td>
 </tr>
 <tr>
 <td><a href="https://leetcode.com/problems/pascals-triangle/" target="_blank" rel="noopener">Pascal’s Triangle</a></td>
 <td><a href="https://github.com/abhishekkdubey/30DaysProgramming/wiki/Pascal's-Triangle" target="_blank" rel="noopener">Wiki</a></td>
-<td><a href="https://leetcode.com/problems/pascals-triangle/" target="_blank" rel="nofollow noopener">Link 2</a></td>
+<td><a href="https://leetcode.com/problems/pascals-triangle/" target="_blank" rel="nofollow noopener">Link</a></td>
 </tr>
 <tr>
-<td><a href="https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/" target="_blank" rel="noopener">Next Permutation</a></td>
-<td><a href="https://www.youtube.com/watch?v=LuLCLgMElus&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=9" target="_blank" rel="noopener">YT</a></td>
-<td><a href="https://leetcode.com/problems/next-permutation/" target="_blank" rel="nofollow noopener">Link 2</a></td>
+<td><a href="https://leetcode.com/problems/next-permutation/" target="_blank" rel="noopener">Next Permutation</a></td>
+<td><a href="https://github.com/abhishekkdubey/30DaysProgramming/wiki/Next-Permutation" target="_blank" rel="noopener">Wiki</a></td>
+<td><a href="https://leetcode.com/problems/next-permutation/" target="_blank" rel="nofollow noopener">Link</a></td>
 </tr>
 <tr>
-<td><a href="https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/" target="_blank" rel="noopener">Kadane’s Algorithm</a></td>
-<td><a href="https://www.youtube.com/watch?v=w_KEocd__20&amp;list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&amp;index=5" target="_blank" rel="noopener">YT</a></td>
-<td><a href="https://leetcode.com/problems/maximum-subarray/" target="_blank" rel="nofollow noopener">Link 2</a></td>
+<td><a href="https://leetcode.com/problems/maximum-subarray/" target="_blank" rel="noopener">Kadane’s Algorithm</a></td>
+<td><a href="https://github.com/abhishekkdubey/30DaysProgramming/wiki/Kadane's-Algorithm" target="_blank" rel="noopener">Wiki</a></td>
+<td><a href="https://leetcode.com/problems/maximum-subarray/" target="_blank" rel="nofollow noopener">Link</a></td>
 </tr>
 <tr>
 <td><a href="https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/" target="_blank" rel="noopener">Sort an array of 0’s 1’s 2’s</a></td>
